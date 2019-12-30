@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rahul.techfest",
+    "sha256_cert_fingerprints":
+    ["FF:16:64:48:41:ED:38:6A:1F:27:01:13:FF:EA:5B:76:AF:F0:44:2A:48:4D:93:9E:A9:D3:C4:1B:37:7C:B2:B6"]
+  }
+}]
